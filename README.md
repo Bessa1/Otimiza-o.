@@ -1,5 +1,5 @@
 # Otimização
-# Nome do Projeto
+# Verificação diária com prints e arquivamento em documento word.
 
 ## Descrição
 O programa consiste em acessar um site e tirar 2x prints e armazena-los em um arquivo word.
