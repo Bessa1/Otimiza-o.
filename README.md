@@ -8,8 +8,6 @@ O programa consiste em acessar um site e tirar 2x prints e armazena-los em um ar
 
 ### Funcionalidade 1
 O intuito principal seria a automação de uma tarefa que é realizada todos os dias, pode ser uma tarefa que não consuma muitos minutos, mas sendo realziada todos os dias, no final do mês, consumiria uma bela quantidade de tempo do usuário.
-
-### Funcionalidade 2
 A única tarefa atribuida ao usuário, seria verificar se o programa está funcionando.
 
 ## Instalação
